@@ -50,7 +50,7 @@ Soy un técnico informático en formación con sólidos conocimientos en hardwar
 
 ## 🌐 Contacto
 
-- 📧 [almedina@itpfp.com.com]
+- 📧 [alejandromedinaramirez1670@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-medina-65a456257/)
 
 
