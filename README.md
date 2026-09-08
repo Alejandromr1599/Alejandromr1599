@@ -1,7 +1,9 @@
 # 👋 ¡Hola! Soy Alejandro Medina Ramírez
 
-🎓 Técnico en Sistemas Microinformáticos y Redes  / Técnico Superior en Desarrollo de Aplicaciones Multiplataformas
+🎓 Técnico en Sistemas Microinformáticos y Redes / Técnico Superior en Desarrollo de Aplicaciones Multiplataformas 
+
 📱 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) - 1er año  
+
 💻 Apasionado por el desarrollo de software, las redes y la tecnología
 
 ---
